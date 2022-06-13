@@ -56,7 +56,7 @@ Y realizamos su respectivo push
 El resultado es PERFECTO , todo funciona como debe de funcionar
 
 ## PRUEBA : 
-ACCEDE AQUI PARA VER QUE FUNCIONA : http://164.90.147.45/Vistas/Marketplace/html/Marketplace.html
+ACCEDE AQUI PARA VER QUE FUNCIONA : http://164.92.120.66/Vistas/Marketplace/html/Marketplace.html
 
 
 ![image](https://user-images.githubusercontent.com/91564342/173460876-d589554f-5005-46a5-8b0c-e394b2f9ca52.png)
