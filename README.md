@@ -2,6 +2,11 @@
 
 # 1 Configuración del archivo docker-compose.yml
 
+Para la creación del .yml, hemos empleado 3 servicios a destacar:
+ - mysql
+ - tomcat
+ - nginx
+ 
 ![image](https://user-images.githubusercontent.com/91564342/173458941-2480affd-d234-44a6-96d4-6be7eb03ee5b.png)
 
 # 2 Obtener archivos
@@ -47,5 +52,13 @@ Y realizamos su respectivo push
 ![image](https://user-images.githubusercontent.com/91564342/173460005-29b038f6-c6eb-4042-9ecf-8f8b1c1de951.png)
 ![image](https://user-images.githubusercontent.com/91564342/173460281-e420642c-bde4-48d0-88a2-3106210e11d3.png)
 
+# 6 Resultados
+El resultado es PERFECTO , todo funciona como debe de funcionar
 
+PRUEBA : 
+![image](https://user-images.githubusercontent.com/91564342/173460876-d589554f-5005-46a5-8b0c-e394b2f9ca52.png)
+
+# 7 ANEXOS
+
+Imagenes de bitlevel https://hub.docker.com/r/rafa380/bl
 
